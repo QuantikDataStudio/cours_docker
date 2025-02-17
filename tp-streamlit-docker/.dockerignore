@@ -1,0 +1,4 @@
+tpStream/**
+docker-compose.yml
+readme.md
+init.sql
